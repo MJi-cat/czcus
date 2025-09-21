@@ -1,0 +1,354 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\thejm\\source\\repos\\zycusUsers\\ZycusSync\\ZycusSync.FunctionApp\\ZycusSync.FunctionApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\thejm\\source\\repos\\zycusUsers\\ZycusSync\\ZycusSync.Application\\ZycusSync.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thejm\\source\\repos\\zycusUsers\\ZycusSync\\ZycusSync.Application\\ZycusSync.Application.csproj",
+        "projectName": "ZycusSync.Application",
+        "projectPath": "C:\\Users\\thejm\\source\\repos\\zycusUsers\\ZycusSync\\ZycusSync.Application\\ZycusSync.Application.csproj",
+        "packagesPath": "C:\\Users\\thejm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thejm\\source\\repos\\zycusUsers\\ZycusSync\\ZycusSync.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\thejm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\thejm\\source\\repos\\zycusUsers\\ZycusSync\\ZycusSync.Domain\\ZycusSync.Domain.csproj": {
+                "projectPath": "C:\\Users\\thejm\\source\\repos\\zycusUsers\\ZycusSync\\ZycusSync.Domain\\ZycusSync.Domain.csproj"
+              },
+              "C:\\Users\\thejm\\source\\repos\\zycusUsers\\ZycusSync\\ZycusSync.Infrastructure\\ZycusSync.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\thejm\\source\\repos\\zycusUsers\\ZycusSync\\ZycusSync.Infrastructure\\ZycusSync.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.25.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[13.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\thejm\\source\\repos\\zycusUsers\\ZycusSync\\ZycusSync.Domain\\ZycusSync.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thejm\\source\\repos\\zycusUsers\\ZycusSync\\ZycusSync.Domain\\ZycusSync.Domain.csproj",
+        "projectName": "ZycusSync.Domain",
+        "projectPath": "C:\\Users\\thejm\\source\\repos\\zycusUsers\\ZycusSync\\ZycusSync.Domain\\ZycusSync.Domain.csproj",
+        "packagesPath": "C:\\Users\\thejm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thejm\\source\\repos\\zycusUsers\\ZycusSync\\ZycusSync.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\thejm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\thejm\\source\\repos\\zycusUsers\\ZycusSync\\ZycusSync.FunctionApp\\ZycusSync.FunctionApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thejm\\source\\repos\\zycusUsers\\ZycusSync\\ZycusSync.FunctionApp\\ZycusSync.FunctionApp.csproj",
+        "projectName": "ZycusSync.FunctionApp",
+        "projectPath": "C:\\Users\\thejm\\source\\repos\\zycusUsers\\ZycusSync\\ZycusSync.FunctionApp\\ZycusSync.FunctionApp.csproj",
+        "packagesPath": "C:\\Users\\thejm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thejm\\source\\repos\\zycusUsers\\ZycusSync\\ZycusSync.FunctionApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\thejm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\thejm\\source\\repos\\zycusUsers\\ZycusSync\\ZycusSync.Application\\ZycusSync.Application.csproj": {
+                "projectPath": "C:\\Users\\thejm\\source\\repos\\zycusUsers\\ZycusSync\\ZycusSync.Application\\ZycusSync.Application.csproj"
+              },
+              "C:\\Users\\thejm\\source\\repos\\zycusUsers\\ZycusSync\\ZycusSync.Domain\\ZycusSync.Domain.csproj": {
+                "projectPath": "C:\\Users\\thejm\\source\\repos\\zycusUsers\\ZycusSync\\ZycusSync.Domain\\ZycusSync.Domain.csproj"
+              },
+              "C:\\Users\\thejm\\source\\repos\\zycusUsers\\ZycusSync\\ZycusSync.Infrastructure\\ZycusSync.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\thejm\\source\\repos\\zycusUsers\\ZycusSync\\ZycusSync.Infrastructure\\ZycusSync.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[13.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.ApplicationInsights.WorkerService": {
+              "target": "Package",
+              "version": "[2.23.0, )"
+            },
+            "Microsoft.Azure.Functions.Worker": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.Azure.Functions.Worker.ApplicationInsights": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.Azure.Functions.Worker.Extensions.Http.AspNetCore": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "Microsoft.Azure.Functions.Worker.Extensions.Timer": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "Microsoft.Azure.Functions.Worker.Sdk": {
+              "target": "Package",
+              "version": "[2.0.5, )"
+            },
+            "Microsoft.Azure.WebJobs.Extensions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\thejm\\source\\repos\\zycusUsers\\ZycusSync\\ZycusSync.Infrastructure\\ZycusSync.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thejm\\source\\repos\\zycusUsers\\ZycusSync\\ZycusSync.Infrastructure\\ZycusSync.Infrastructure.csproj",
+        "projectName": "ZycusSync.Infrastructure",
+        "projectPath": "C:\\Users\\thejm\\source\\repos\\zycusUsers\\ZycusSync\\ZycusSync.Infrastructure\\ZycusSync.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\thejm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thejm\\source\\repos\\zycusUsers\\ZycusSync\\ZycusSync.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\thejm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\thejm\\source\\repos\\zycusUsers\\ZycusSync\\ZycusSync.Domain\\ZycusSync.Domain.csproj": {
+                "projectPath": "C:\\Users\\thejm\\source\\repos\\zycusUsers\\ZycusSync\\ZycusSync.Domain\\ZycusSync.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.25.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+C:\Users\thejm\source\repos\zycusUsers\ZycusSync\ZycusSync.Infrastructure\obj\Debug\net8.0\ZycusSync.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\thejm\source\repos\zycusUsers\ZycusSync\ZycusSync.Infrastructure\obj\Debug\net8.0\ZycusSync.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thejm\source\repos\zycusUsers\ZycusSync\ZycusSync.Infrastructure\obj\Debug\net8.0\ZycusSync.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\thejm\source\repos\zycusUsers\ZycusSync\ZycusSync.Infrastructure\obj\Debug\net8.0\ZycusSync.Infrastructure.AssemblyInfo.cs
+C:\Users\thejm\source\repos\zycusUsers\ZycusSync\ZycusSync.Infrastructure\obj\Debug\net8.0\ZycusSync.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\thejm\source\repos\zycusUsers\ZycusSync\ZycusSync.Infrastructure\obj\Debug\net8.0\ZycusSync.Infrastructure.sourcelink.json

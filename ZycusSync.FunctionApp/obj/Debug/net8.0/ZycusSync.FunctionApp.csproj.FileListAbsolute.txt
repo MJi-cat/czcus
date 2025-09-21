@@ -1,0 +1,6 @@
+C:\Users\thejm\source\repos\zycusUsers\ZycusSync\ZycusSync.FunctionApp\obj\Debug\net8.0\ZycusSync.FunctionApp.csproj.AssemblyReference.cache
+C:\Users\thejm\source\repos\zycusUsers\ZycusSync\ZycusSync.FunctionApp\obj\Debug\net8.0\ZycusSync.FunctionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thejm\source\repos\zycusUsers\ZycusSync\ZycusSync.FunctionApp\obj\Debug\net8.0\ZycusSync.FunctionApp.AssemblyInfoInputs.cache
+C:\Users\thejm\source\repos\zycusUsers\ZycusSync\ZycusSync.FunctionApp\obj\Debug\net8.0\ZycusSync.FunctionApp.AssemblyInfo.cs
+C:\Users\thejm\source\repos\zycusUsers\ZycusSync\ZycusSync.FunctionApp\obj\Debug\net8.0\ZycusSync.FunctionApp.csproj.CoreCompileInputs.cache
+C:\Users\thejm\source\repos\zycusUsers\ZycusSync\ZycusSync.FunctionApp\obj\Debug\net8.0\ZycusSync.FunctionApp.sourcelink.json

@@ -1,0 +1,12 @@
+C:\Users\thejm\source\repos\zycusUsers\ZycusSync\ZycusSync.Domain\bin\Debug\net8.0\ZycusSync.Domain.deps.json
+C:\Users\thejm\source\repos\zycusUsers\ZycusSync\ZycusSync.Domain\bin\Debug\net8.0\ZycusSync.Domain.dll
+C:\Users\thejm\source\repos\zycusUsers\ZycusSync\ZycusSync.Domain\bin\Debug\net8.0\ZycusSync.Domain.pdb
+C:\Users\thejm\source\repos\zycusUsers\ZycusSync\ZycusSync.Domain\obj\Debug\net8.0\ZycusSync.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thejm\source\repos\zycusUsers\ZycusSync\ZycusSync.Domain\obj\Debug\net8.0\ZycusSync.Domain.AssemblyInfoInputs.cache
+C:\Users\thejm\source\repos\zycusUsers\ZycusSync\ZycusSync.Domain\obj\Debug\net8.0\ZycusSync.Domain.AssemblyInfo.cs
+C:\Users\thejm\source\repos\zycusUsers\ZycusSync\ZycusSync.Domain\obj\Debug\net8.0\ZycusSync.Domain.csproj.CoreCompileInputs.cache
+C:\Users\thejm\source\repos\zycusUsers\ZycusSync\ZycusSync.Domain\obj\Debug\net8.0\ZycusSync.Domain.sourcelink.json
+C:\Users\thejm\source\repos\zycusUsers\ZycusSync\ZycusSync.Domain\obj\Debug\net8.0\ZycusSync.Domain.dll
+C:\Users\thejm\source\repos\zycusUsers\ZycusSync\ZycusSync.Domain\obj\Debug\net8.0\refint\ZycusSync.Domain.dll
+C:\Users\thejm\source\repos\zycusUsers\ZycusSync\ZycusSync.Domain\obj\Debug\net8.0\ZycusSync.Domain.pdb
+C:\Users\thejm\source\repos\zycusUsers\ZycusSync\ZycusSync.Domain\obj\Debug\net8.0\ref\ZycusSync.Domain.dll

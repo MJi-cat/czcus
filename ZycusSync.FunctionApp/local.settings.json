@@ -1,0 +1,17 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+
+    "Graph:TenantId": "",
+    "Graph:ClientId": "",
+    "Graph:ClientSecret": "",
+
+    "DeltaStorage:ConnectionString": "",
+    "DeltaStorage:Container": "zycus-delta",
+    "DeltaStorage:Prefix": "dev/",
+
+    "Watch:Roots:0": "09a89ccd-0517-406c-a24e-c36ebe611a3e"
+  }
+}
